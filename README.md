@@ -1,7 +1,7 @@
 HelloPHP
 ========                                                                                                                
 
-A simple 
+A simple PHP extension built for PHP extension development students.
 
 Installation
 ------------
