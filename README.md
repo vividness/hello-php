@@ -14,7 +14,7 @@ Run listed commands inside the directory
     * phpize
     * ./configure
     * make
-    * $ sudo make install
-    * $ php -d extension=hello_php.so -r 'hello_php();'
+    * sudo make install
+    * php -d extension=hello_php.so -r 'hello_php();'
 
 Congratulations!! You have built your first PHP extension!
