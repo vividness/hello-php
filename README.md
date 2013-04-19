@@ -2,6 +2,10 @@ HelloPHP
 ========                                                                                                               
 A simple PHP extension built for PHP extension development students.
 
+Tutorial
+-------- 
+For a more comprehensive tutorial please check [this link](http://www.vladimirivic.com/articles/a-quick-and-straightforward-introduction-to-php-extension-building.html).
+
 Installation
 ------------
 
